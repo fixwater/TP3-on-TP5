@@ -1,5 +1,5 @@
 {
-    "name": "zzctech/TP3-on-TP5",
+    "name": "zzctech/tp3-on-tp5",
     "type": "library",
     "description": "A ThinkPHP 3.x compatible layer runs on ThinkPHP 5.x",
     "keywords": ["ThinkPHP","compatible"],
