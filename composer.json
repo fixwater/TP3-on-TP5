@@ -1,0 +1,22 @@
+{
+    "name": "zzctech/TP3-on-TP5",
+    "type": "library",
+    "description": "A ThinkPHP 3.x compatible layer runs on ThinkPHP 5.x",
+    "keywords": ["ThinkPHP","compatible"],
+    "homepage": "https://github.com/zzctech/TP3-on-TP5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zzctech",
+            "email": "zzctech@outlook.com",
+            "homepage": "http://zzctech.cn",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        
+    }
+}
